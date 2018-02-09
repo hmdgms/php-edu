@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sinif name="12ATC">
+  <ogrenci>
+    <no>46</no>
+    <ad>Kaan</ad>
+    <soyad>AK</soyad>
+  </ogrenci>
+  <ogrenci>
+    <no>28</no>
+    <ad>Barış Can</ad>
+    <soyad>KAZAN</soyad>
+  </ogrenci>
+  <ogrenci>
+    <no>5</no>
+    <ad>Barış</ad>
+    <soyad>ÖNER</soyad>
+  </ogrenci>
+</sinif>
