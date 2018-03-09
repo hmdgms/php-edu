@@ -7,8 +7,7 @@ header("Content-type:image/jpeg");
 // resmin boyutları
 $resim=imagecreatetruecolor(150,50);
 // resmin rengi
-imagesavealpha($resim, true);
-imagecolorallocatealpha($resim, rand(0,255), rand(0,255), rand(0,255),50);
+imagecolorallocate($resim, rand(0,255), rand(0,255), rand(0,255));
 $yaziRengi = imagecolorallocate($resim, rand(0,255), rand(0,255), rand(0,255));
 //doğrulama kodu
 $guvenlik=rand(1000,9999);
